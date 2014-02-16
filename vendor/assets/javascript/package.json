@@ -1,0 +1,11 @@
+{
+  "name": "rang",
+  "version": "0.0.0",
+  "description": "rang give sexy KISS to your angular files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piarulli Pierre-Alexandre <go@rubyrock.me>",
+  "license": "BSD-2-Clause"
+}
